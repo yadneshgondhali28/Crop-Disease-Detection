@@ -1,0 +1,4 @@
+After executing the command conda info --envs i am getting this 
+
+base                  *  C:\Users\yadne\anaconda3
+tensorflow               C:\Users\yadne\anaconda3\envs\tensorflow
